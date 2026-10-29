@@ -101,6 +101,10 @@ docker run -d \
 
 Features: Multi-database support (SQLite, MySQL, PostgreSQL), Docker secrets integration, FrankenPHP for enhanced performance.
 
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Poweradmin/)
+
 ## Requirements
 
 * PHP 8.2 or higher (including 8.3, 8.4, 8.5, etc.)
